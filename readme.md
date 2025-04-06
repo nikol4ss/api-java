@@ -1,5 +1,3 @@
-# My API Project (Java)
-
 This is a simple API project using Spring Boot.
 
 ## Installation
